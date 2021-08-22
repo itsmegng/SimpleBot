@@ -5,7 +5,7 @@
 <a href="#"><img title="" src="https://img..io/badge/GNGBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/itsmegng/"><img title="Author" src="https://img.shields.io/badge/Author-GUNZ-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/itsmegng"><img title="Author" src="https://img.shields.io/badge/Author-GUNZ-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zennn08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
