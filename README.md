@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="XINZ BOT" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/itsmegng/SimpleBot/main/media/gunz.jpg" alt="GNG BOT" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="XINZ BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="GNG BOT" src="https://img..io/badge/GNG BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
@@ -38,8 +38,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/itsmegng/SimpleBot.git
+cd SimpleBot
 npm install
 node main
 ```
@@ -48,8 +48,8 @@ node main
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/itsmegng/SimpleBot.git
+cd SimpleBot
 npm install
 node main
 ```
@@ -57,8 +57,8 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/Xinz-Team/XinzBot.git
-cd XinzBot
+git clone https://github.com/itsmegng/SimpleBot.git
+cd SimpleBot
 npm install
 node main
 ```
@@ -105,20 +105,20 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
-## Donate
-- [Saweria](https://saweria.co/aqulzz)
-- [Trakteer](https://trakteer.id/aqulzz)
+
+
+
 
 # Features
-- Cek [disini](https://github.com/Xinz-Team/XinzBot/blob/main/message/help.js)
+- Cek [disini](https://github.com/itsmegng/SimpleBotlob/main/message/help.js)
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xinz-Team`](https://github.com/Xinz-Team)
 * [`Nurutomo`](https://github.com/Nurutomo)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Mamet`](https://github.com/mamet8/)
-* [`SlavyanDesu`](https://github.com/SlavyanDesu)
-* [`VideFrelan`](https://github.com/VideFrelan)
-* [`TobyG74`](https://github.com/TobyG74)
+
+
+
+
+
