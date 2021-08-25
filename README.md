@@ -1,124 +1,133 @@
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/itsmegng/SimpleBot/main/media/gunz.jpg" alt="GNG BOT" width="128" height="128"/>
+
+<p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+
 </p>
+
+<br>
+
 <p align="center">
-<a href="#"><img title="" src="https://img..io/badge/GNGBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/itsmegng"><img title="Author" src="https://img.shields.io/badge/Author-Aqull-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/zennn08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Xinz-Team/XinzBot?color=red&style=flat-square"></a>
-<a href="https://github.com/zennn08/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Xinz-Team/XinzBot?label=Watchers&color=blue&style=flat-square"></a>
+
+<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/Xinz-Team/XinzBot#requirements">Requirements</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#instalasi">Installation</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#features">Features</a> •
-  <a href="https://github.com/Xinz-Team/XinzBot#thanks-to">Thanks to</a>
+
+<a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+
 </p>
+
+<p align="center">
+
+<a href="https://github.com/Ramlan404/babybot/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ramlan404?color=blue&style=flat-square"></a>
+
+<a href="https://github.com/Ramlan404/babybot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramlan404/babybotcolor=red&style=flat-square"></a>
+
+<a href="https://github.com/Ramlan404/babybot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramlan404/babybot?color=red&style=flat-square"></a>
+
+<a href="https://github.com/Ramlan404/babybot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramlan404/babybot?label=Watchers&color=blue&style=flat-square"></a>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan404%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+
+</p>
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+
+<div align="center">
+
+<details>
+
+ 
+
+</details>
+
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+
+### WARNING
+
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+
+## NOTE:> 
+
+SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+
 </div>
 
+### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
 
----
+Siapin alat dan bahannya.
 
-
-
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-* [Image Magic](https://imagemagick.org/script/download.php) ( for nulis command, Centang Kolom 1,2,3,5,6)
-* Any text editor
-
-# Instalasi
-## For Windows
 ```bash
-git clone https://github.com/itsmegng/SimpleBot.git
-cd SimpleBot
-npm install
-node main
+
+> niat
+
+> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+
+> jaringan internet kenceng,kuota+
+
+> penyimpanan yang memadai
+
+> aplikasi whatsapp
+
+> aplikasi termux
+
+> kopi+rokok ;v
+
 ```
-## For Termux
+
+### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
 ```bash
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/itsmegng/SimpleBot.git
-cd SimpleBot
-npm install
-node main
+
+> kalo lu belum punya apk termux, download di playstore
+
+> masuk ke apk termux lalu ketik dibawah ini!
+
+> termux-setup-storage [ Lalu Ijinkan ]
+
+> apt-get update -y
+
+> apt-get upgrade -y
+
+> pkg install git -y
+
+> pkg install bash -y
+
+> pkg install mc -y
+
+> git clone https://github.com/Ramlan404/babybot
+
+> cd SimpleBot
+
+> bash install.sh
+
+> npm start
+
+> SCAN DAH BRO MHEHE EZ KAN:V
+
 ```
 
-## For VPS
-```bash
-apt install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/itsmegng/SimpleBot.git
-cd SimpleBot
-npm install
-node main
-```
+Ket: Script ini gratis ye Jangan dijual_-
 
-## Edit file
-- Change ownerNumber on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L2)
-- Change ownerName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L3)
-- Change botName on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L6)
-- Change Apikey on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L8)
-- Change fakeReply on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L9)
-- Change Donasi on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/config.json#L12)
-- You can edit list menu on [this section](https://github.com/Xinz-Team/XinzBot/blob/8d32fc24d9252517e995d19046fe06ca4b983055/message/help.js#L147)
-- You can add fiture on [this section](https://github.com/Xinz-Team/XinzBot/blob/main/message/xinz.js)
+## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
+* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
 
-## Installing the FFmpeg for Windows
-* Unduh salah satu versi FFmpeg yang tersedia dengan mengklik [di sini](https://www.gyan.dev/ffmpeg/builds/).
-* Extract file ke `C:\` path.
-* Ganti nama folder yang telah di-extract menjadi `ffmpeg`.
-* Run Command Prompt as Administrator.
-* Jalankan perintah berikut::
-```cmd
-> setx /m PATH "C:\ffmpeg\bin;%PATH%"
-```
-Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was saved`.
-* Sekarang setelah Anda menginstal FFmpeg, verifikasi bahwa itu berhasil dengan menjalankan perintah ini untuk melihat versi:
-```cmd
-> ffmpeg -version
-```
+## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
+* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
 
-## Installing the libwebp for Windows
-* Unduh salah satu versi libwebp yang tersedia dengan mengklik [di sini](https://developers.google.com/speed/webp/download).
-* Extract file ke `C:\` path.
-* Ganti nama folder yang telah di-extract menjadi `libwebp`.
-* Run Command Prompt as Administrator.
-* Jalankan perintah berikut::
-```cmd
-setx /m PATH "C:\libwebp\bin;%PATH%"
-```
-Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was saved`.
-* Sekarang setelah Anda menginstal libwebp, verifikasi bahwa itu berhasil dengan menjalankan perintah ini untuk melihat versi:
-```cmd
-webpmux -version
-```
+* [`Instagram Admin`](https://instagram.com/iamramlan_)
 
+* [`WhatsApp Admin `](https://wa.me/+6285559240360)
 
+* [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
 
+## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
+* [`ALLAH SWT`]
 
-# Features
-- Cek [disini](https://github.com/itsmegng/SimpleBotlob/main/message/help.js)
-
-# Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xinz-Team`](https://github.com/Xinz-Team)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`MhankBarBar`](https://github.com/MhankBarBar)
-
-
-
-
-
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
