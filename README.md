@@ -114,17 +114,17 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
-* [`Donasi Ramlan ID`](https://saweria.co/ramlangans)
+* [`Donasi FaxGNG`](https://saweria.co/)
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
+* [`Youtube Admin`](https://youtube.com/c/GNGBOTZ)
 
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
+* [`Instagram Admin`](https://instagram.com/)
 
 * [`WhatsApp Admin `](https://wa.me/+6285215988509)
 
-* [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
+* [`Group WhatsApp `](https://chat.whatsapp.com/)
 
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
