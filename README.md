@@ -1,8 +1,8 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Ramlan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm 𝓖𝓾𝓷𝔃
 
 <p align="center">
 
-<p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://instagram.com/iamramlan_"><img height="200" src="https://github.com/Ramlan404/Ramlan404/blob/main/.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 </p>
 
@@ -10,13 +10,13 @@
 
 <p align="center">
 
-<a href="#"><img title="RAMLAN ID" src="https://img.shields.io/badge/RAMLAN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="GNG ID" src="https://img.shields.io/badge/GUNZ-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RAMLAN-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Ramlan404"><img title="Author" src="https://img.shields.io/badge/AUTHOR-GNG-orange.svg?style=for-the-badge&logo=github"></a>
 
 </p>
 
@@ -44,7 +44,7 @@
 
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝘼𝙂𝙐𝙉𝙂 𝙄𝘿
 
 ### WARNING
 
@@ -98,11 +98,11 @@ Siapin alat dan bahannya.
 
 > pkg install mc -y
 
-> git clone https://github.com/Ramlan404/babybot
+> git clone https://github.com/itsmegng/SimpleBot.git
 
 > cd SimpleBot
 
-> bash install.sh
+> npm install
 
 > npm start
 
@@ -122,7 +122,7 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 * [`Instagram Admin`](https://instagram.com/iamramlan_)
 
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
+* [`WhatsApp Admin `](https://wa.me/+6285215988509)
 
 * [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
 
