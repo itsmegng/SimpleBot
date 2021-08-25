@@ -94,7 +94,7 @@ Siapin alat dan bahannya.
 
 > pkg install git -y
 
-> pkg install bash -y
+
 
 > pkg install mc -y
 
@@ -118,7 +118,7 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/GNGBOTZ)
+* [`Youtube Admin`](https://youtube.com/channel/UCymVZ7sbHyeL9MXX2KUcmpQ)
 
 * [`Instagram Admin`](https://instagram.com/)
 
